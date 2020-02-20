@@ -1,5 +1,5 @@
 {
-  "name": "cristiankozlowski/authphp",
+  "name": "cristiankozlowski/login-php",
   "description": "Autenticação de login com PHP",
   "minimum-stability": "stable",
   "license": "MIT",
